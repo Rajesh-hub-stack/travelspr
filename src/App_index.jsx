@@ -26,7 +26,7 @@ const App_index = () => {
         <Route path={'/trip'} element={<Trips />} />
          <Route path={'/prev_trips'} element={<Previous_trip />} />
           {/* <Route path={'/help'} element={<Help />} /> */}
-          <Route path={'/'} element={<Login />} />
+          <Route path={'/travelspr'} element={<Login />} />
           <Route path={'/Registration'} element={<Registration />} />
               
                 <Route path={'/Customer_Support'} element={<Help />} />
