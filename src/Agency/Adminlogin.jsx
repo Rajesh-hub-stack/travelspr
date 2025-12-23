@@ -49,7 +49,7 @@ const Adminlogin = () => {
  <div className="text-center"> 
   <button type="submit" class="btn btn-primary">Submit</button></div>
   {/* <center><p>If You Don't Have An acoount Register</p><a href="/Registration">Here</a></center> */}
-  <center><a href='/'>Goto Admin login</a></center>
+  <center><a href='/'>Goto User login</a></center>
 </form>
 </div>
        </div>
